@@ -1,0 +1,21 @@
+{
+  "name": "CYD28_Touchscreen",
+  "version": "1.0.0",
+  "keywords": "Arduino, tft, display, XPT2046",
+  "description": "Software SPI library for the XPT2046 resistive touchscreen",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/hexeguitar/CYD28_Touchscreen"
+  },
+  "authors":
+  [
+    {
+        "name": "Piotr Zapart",
+        "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "CYD28_TouchscreenR.h"
+}

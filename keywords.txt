@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CYD28_TS_Point	KEYWORD1
+CYD28_TouchR	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+getPointScaled	KEYWORD2
+getPointRaw	KEYWORD2
+touched	KEYWORD2
+readData	KEYWORD2
+setRotation	KEYWORD2
+setThreshold	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+CYD28_TouchR_Z_THRESH	LITERAL1
+CYD28_TouchR_Z_THRES_INT	LITERAL1
+CYD28_TouchR_IRQ	LITERAL1
+CYD28_TouchR_MOSI	LITERAL1
+CYD28_TouchR_MISO	LITERAL1
+CYD28_TouchR_CLK	LITERAL1
+CYD28_TouchR_CS		LITERAL1
+CYD28_TouchR_CAL_XMIN	LITERAL1
+CYD28_TouchR_CAL_XMAX	LITERAL1
+CYD28_TouchR_CAL_YMIN	LITERAL1
+CYD28_TouchR_CAL_YMAX	LITERAL1
