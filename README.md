@@ -17,7 +17,7 @@ Pinout is fixed in the header file, using the configuration present on the CYD 2
 Simply add the library url to the lib_deps in the `platformio.ini` file:  
 ```
 lib_deps =
-	https://github.com/hexeguitar/CYD28_Touchscreen
+	https://github.com/hexeguitar/CYD28_Touchscreen.git
 ```  
 ## LVGL8.x  
 Create the touchscreen object + input device driver for the lvgl library:  
